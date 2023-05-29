@@ -1,0 +1,19 @@
+Marcio Gabriel 
+________________________________________________________
+Algoritimo Vetor
+
+INICIO
+
+	DECLARAÇÃO :
+		LISTA[10]:INTEIRO;
+		INDICE   :INTEIRO;
+		X        :INTEIRO;
+		
+
+	X <- 1;
+
+	PARA INDICE <- 0 DE ATÉ 9 PASSO 1 FAÇA;
+		LISTA[INDICE] <- X;
+	FIM-PARA;
+
+FIM
